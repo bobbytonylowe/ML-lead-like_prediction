@@ -9,12 +9,12 @@
 - Supervised learning technique as the training of the model is with a given dataset. 
 
 # Possible algorithms
-Logistic Regression
-KNN or k-Nearest Neighbors
-Support Vector Machines
-Naive Bayes classifier
-Decision Tree
-Random Forrest
-Perceptron
-Artificial neural network
-RVM or Relevance Vector Machine
+- Logistic Regression
+- KNN or k-Nearest Neighbors
+- Support Vector Machines
+- Naive Bayes classifier
+- Decision Tree
+- Random Forrest
+- Perceptron
+- Artificial neural network
+- RVM or Relevance Vector Machine
