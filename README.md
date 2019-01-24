@@ -5,7 +5,7 @@
 
 
 # Model, predict and solve
-- This is a classification model used to predict the required solution. 
+- This is a classification and regression model used to predict the required solution. 
 - Supervised learning technique as the training of the model is with a given dataset. 
 
 # Possible algorithms
