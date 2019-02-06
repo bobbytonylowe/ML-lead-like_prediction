@@ -1,8 +1,7 @@
 # ML-lead-like_prediction
 - Machine learning model which predicts whether a compound is Lead-like.
 - Key components are molecular weight (RMM), lipophilicity (AlogP), number of aromatic rings and heavy atom count (HAC).
-- Although the dataset is of low quantity, the model has a 93% accuracy.
-- When the model was trained with more data the score increased to 100%
+- 100% accuracy.
 
 
 # Model, predict and solve
